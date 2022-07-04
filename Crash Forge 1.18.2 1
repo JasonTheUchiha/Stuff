@@ -1,0 +1,134 @@
+20:49:44.319
+launcher
+main
+Preparing to launch minecraft client for forge-40.1.52
+20:49:44.793
+launcher
+main
+Have local file C:\Users\dirke\Twitch\Minecraft\Install\assets\indexes\legacy.json but don't know what size or hash it should be. Have to assume it's good.
+20:49:45.266
+launcher
+main
+Have local file C:\Users\dirke\Twitch\Minecraft\Install\versions\forge-40.1.52\forge-40.1.52.jar but don't know what size or hash it should be. Have to assume it's good.
+20:49:45.574
+launcher
+main
+Minecraft client forge-40.1.52 is ready to start.
+20:49:45.574
+launcher
+main
+Starting!
+20:49:45.667
+launcher
+main
+Version does not support log configuration, will assume one plaintext entry per line
+20:49:48.512
+game
+Usage: javaw [-options] class [args...]
+20:49:48.512
+game
+(to execute a class)
+20:49:48.512
+game
+or  javaw [-options] -jar jarfile [args...]
+20:49:48.512
+game
+(to execute a jar file)
+20:49:48.512
+game
+where options include:
+20:49:48.512
+game
+-d32	  use a 32-bit data model if available
+20:49:48.512
+game
+-d64	  use a 64-bit data model if available
+20:49:48.512
+game
+-server	  to select the "server" VM
+20:49:48.512
+game
+The default VM is server.
+20:49:48.512
+game
+20:49:48.512
+game
+-cp <class search path of directories and zip/jar files>
+20:49:48.512
+game
+-classpath <class search path of directories and zip/jar files>
+20:49:48.512
+game
+A ; separated list of directories, JAR archives,
+20:49:48.512
+game
+and ZIP archives to search for class files.
+20:49:48.512
+game
+-D<name>=<value>
+20:49:48.512
+game
+set a system property
+20:49:48.512
+game
+-verbose:[class|gc|jni]
+20:49:48.512
+game
+enable verbose output
+20:49:48.512
+game
+-version      print product version and exit
+20:49:48.512
+game
+-version:<value>
+20:49:48.512
+game
+require the specified version to run
+20:49:48.512
+game
+-showversion  print product version and continue
+20:49:48.512
+game
+-jre-restrict-search | -no-jre-restrict-search
+20:49:48.512
+game
+include/exclude user private JREs in the version search
+20:49:48.512
+game
+-? -help      print this help message
+20:49:48.512
+game
+-X            print help on non-standard options
+20:49:48.512
+game
+-ea[:<packagename>...|:<classname>]
+20:49:48.512
+game
+-enableassertions[:<packagename>...|:<classname>]
+20:49:48.512
+game
+enable assertions with specified granularity
+20:49:48.512
+game
+-da[:<packagename>...|:<classname>]
+20:49:48.512
+game
+-disableassertions[:<packagename>...|:<classname>]
+20:49:48.512
+game
+disable assertions with specified granularity
+20:49:48.512
+game
+-esa | -enablesystemassertions
+20:49:48.512
+game
+enable system assertions
+20:49:48.512
+game
+-dsa | -disablesystemassertions
+20:49:48.512
+game
+disable system assertions
+20:49:48.512
+game
+-agentlib:<libname>[=<options>]
